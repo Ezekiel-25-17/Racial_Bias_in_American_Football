@@ -1,1 +1,3 @@
-# Thesis
+# Racial Bias in American Football
+### A Machine Learning and Natural Language Processing analysis on how race affects player evaluation during the Draft process
+This thesis aims to determine whether non-white quarterbacks face discrimination in the evaluation process prior to the NFL draft. Quarterbacks are the face of multi-billion dollar franchises and the main drivers of their success in a sport that defines American life. Compared to existing research, we employ both textual and numerical data, combining Natural Language Processing and Machine Learning techniques to find discrepancies between what is written and discussed by the media and the actual on-field performances. Evidence is found that quarterbacks are stereotyped, non-white quarterbacks are portrayed as naturally gifted with superior athleticism, while white quarterbacks are characterized by their accuracy, football IQ, toughness and competitiveness.
